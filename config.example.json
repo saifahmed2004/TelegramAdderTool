@@ -1,0 +1,17 @@
+{
+	"group_target": 1527757925,
+	"group_source": 1862382526,
+	"group_source_username": "PublicSource_Chat",
+	"group_target_username": "MastiChats",
+	"from_date_active": "UserStatus.RECENTLY",
+	"auto_join": true,
+	"spam_check": true, 
+	"wait_time": 30, # sleep time
+	"accounts": [
+		{
+			"phone": "+91XXXXXXXXXX",
+			"api_id": 25194789,
+			"api_hash": "e59afe25c17585635ec031c889eb5b34"
+		}
+	]
+}
