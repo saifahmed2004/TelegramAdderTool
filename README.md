@@ -13,7 +13,7 @@ This project is most optimised Telegram member adder.
 
 ## Authors
 
-- [@saifalisew1508](https://www.github.com/saifalisew1508)
+- [@saifahmed2004](https://www.github.com/saifahmed2004)
 
 ## One Click Installation
 
@@ -56,7 +56,7 @@ how many numbers you want to add
 ## To Don't
 > ***enter number of account you want to add example: 10 or 5***
 
-> ***enter ur number with country code example 919708973259 [91 is my country code]***
+> ***enter ur number with country code example 91×××××××××× [91 is my country code]***
 
 > ***enter ur api id. get from https://my.telegram.org/auth***
 
